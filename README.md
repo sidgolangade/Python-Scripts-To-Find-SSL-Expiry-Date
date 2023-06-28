@@ -5,7 +5,7 @@ This repository contains a collection of useful scripts written in Python that c
 
 ## Key Highlights
 
-- **SSL Expiry Date Finder**: Find the expiry date of an SSL certificate for a given hostname. ([Link](./ssl_expiry_date_finder))
+- **SSL Expiry Date Finder**: Find the expiry date of an SSL certificate for a given hostname.
 
 # Steps?
 Browse through the repository's folders to find specific use cases of your interest.
